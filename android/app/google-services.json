@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589898369862",
+    "project_id": "cricketlivescore-2094e",
+    "storage_bucket": "cricketlivescore-2094e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589898369862:android:a6bd416b2ffe0aa6557347",
+        "android_client_info": {
+          "package_name": "com.cricketscore.livescore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPaSCSXtzBMofgwW1bEEFjadU5FpH7yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
